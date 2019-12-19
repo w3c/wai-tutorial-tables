@@ -1,3 +1,3 @@
-# wai-resource-template
+# wai-tutorial-tables
 
-Preview: https://wai-resource-template.netlify.com/
+Preview: https://wai-tutorial-tables.netlify.com/
