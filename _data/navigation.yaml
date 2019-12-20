@@ -1,4 +1,6 @@
-- name: Accessibility Fundamentals
+- name:
+    en: 'Accessibility Fundamentals'
+    es: 'Fundamentos de accesibilidad'
   pages:
   - name: Introduction to Accessibility
     url: "/fundamentals/accessibility-intro/"
@@ -70,7 +72,9 @@
     url: "/planning/involving-users/"
   - name: International Laws & Policies
     url: "/policies/"
-- name: Design & Develop
+- name:
+    en: 'Design & Develop'
+    es: 'Diseñar y Desarrollar'
   pages:
   - name: Overview
     url: "/design-develop/"
