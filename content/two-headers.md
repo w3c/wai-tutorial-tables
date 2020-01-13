@@ -48,7 +48,7 @@ In the header row, the `col` value for `scope` associates each header cell with 
     <th scope="col">Friday</th>
   </tr>
   <tr>
-    <th scope="row">09:00 - 11:00</th>
+    <th scope="row">09:00 – 11:00</th>
     <td>Closed</td>
     <td>Open</td>
     <td>Open</td>
@@ -56,7 +56,7 @@ In the header row, the `col` value for `scope` associates each header cell with 
     <td>Closed</td>
   </tr>
   <tr>
-    <th scope="row">11:00 - 13:00</th>
+    <th scope="row">11:00 – 13:00</th>
     <td>Open</td>
     <td>Open</td>
     <td>Closed</td>
@@ -64,7 +64,7 @@ In the header row, the `col` value for `scope` associates each header cell with 
     <td>Closed</td>
   </tr>
   <tr>
-    <th scope="row">13:00 - 15:00</th>
+    <th scope="row">13:00 – 15:00</th>
     <td>Open</td>
     <td>Open</td>
     <td>Open</td>
@@ -72,7 +72,7 @@ In the header row, the `col` value for `scope` associates each header cell with 
     <td>Closed</td>
   </tr>
   <tr>
-    <th scope="row">15:00 - 17:00</th>
+    <th scope="row">15:00 – 17:00</th>
     <td>Closed</td>
     <td>Closed</td>
     <td>Closed</td>
@@ -100,7 +100,7 @@ In the header row, the `col` value for `scope` associates each header cell with 
     <th scope="col">Friday</th>
   </tr>
   <tr>
-    <th scope="row">09:00 - 11:00</th>
+    <th scope="row">09:00 – 11:00</th>
     <td>Closed</td>
     <td>Open</td>
     <td>Open</td>
@@ -108,7 +108,7 @@ In the header row, the `col` value for `scope` associates each header cell with 
     <td>Closed</td>
   </tr>
   <tr>
-    <th scope="row">11:00 - 13:00</th>
+    <th scope="row">11:00 – 13:00</th>
     <td>Open</td>
     <td>Open</td>
     <td>Closed</td>
