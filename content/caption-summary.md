@@ -284,6 +284,8 @@ The element containing the summary doesn’t need to be in front of the table in
 ### Using the `<figure>` element to mark up a table summary
 {:.ap}
 
+{% include ednote.html note="Consider including different approach for figure" issue="597" repo="wai-tutorials" status="open" %}
+
 In this approach, the table is wrapped in a `<figure>` element. The `<figcaption>` element contains the caption and summary text.
 
 Screen reader users navigating in “Tables Mode” are usually unable to identify a table by a caption applied like this. The caption part of the `<figcaption>` element can be explicitly associated to the table by using the `aria-labelledby` attribute and the summary part by using the `aria-describedby` attributes. Note that this could lead to the caption and summary being read out multiple times.
