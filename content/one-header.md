@@ -36,6 +36,8 @@ The following table of concerts has the cells in the first row marked up using t
 {% include box.html type="start" title="Note" class="simple notes" %}
 {:/}
 
+{% include ednote.html note="Remove Note: Use of Scope for Simple Data Tables Is Unnecessary" issue="576" repo="wai-tutorials" status="open" %}
+
 Some screen readers will read “Date – Event – Venue” in the “Venue” cell because the direction of the `<th>` elements is ambiguous.
 
 {::nomarkdown}
@@ -162,6 +164,8 @@ In the following table, the data from the previous example is laid out with the 
 
 ## Table with ambiguous data
 {:.ex}
+
+{% include ednote.html note="Remove Example: Use of Scope for Simple Data Tables Is Unnecessary" issue="576" repo="wai-tutorials" status="open" %}
 
 In this example, the data (first name, last name, and city) can’t be distinguished from one another without knowing which header each corresponds to. The `scope` attribute with the value `col` defines the direction of the header cells and associates them with the corresponding data cells. The `scope` attribute is also needed for larger tables with one header row or column.
 
